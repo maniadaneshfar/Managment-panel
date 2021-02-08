@@ -1,0 +1,6 @@
+body{
+  direction: rtl;
+}
+.modal-header .close{
+  margin-left: 0px;
+}
