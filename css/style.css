@@ -4,3 +4,6 @@ body{
 .modal-header .close{
   margin-left: 0px;
 }
+.navbar{
+  height: auto;
+}
